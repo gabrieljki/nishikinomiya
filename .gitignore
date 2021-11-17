@@ -2,6 +2,7 @@ commands
 frames
 prefixes.db
 data_format.txt
+config.json
 
 # Logs
 logs

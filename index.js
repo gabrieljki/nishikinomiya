@@ -1,4 +1,4 @@
-const CONFIG = require('./config.json')
+const CONFIG = require('./config.json') // Bot token, bot Id
 const Discord = require('discord.js')
 const client = new Discord.Client()
 require('discord-buttons')(client)
