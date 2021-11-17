@@ -1,0 +1,526 @@
+{
+    "infoFrames": [
+        {
+            "number": "2",
+            "name": "Brass",
+            "bits": [
+                "Copper",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/XgzktaE.jpg"
+        },
+        {
+            "number": "3",
+            "name": "Fortress",
+            "bits": [
+                "Stone",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/cCGlDHQ.jpg"
+        },
+        {
+            "number": "4",
+            "name": "Beachside",
+            "bits": [
+                "Flower",
+                "Quartz"
+            ],
+            "img": "https://i.imgur.com/SFhsu1B.jpg"
+        },
+        {
+            "number": "5",
+            "name": "Volcanic",
+            "bits": [
+                "Copper",
+                "Magma"
+            ],
+            "img": "https://i.imgur.com/UwH9Tpw.jpg"
+        },
+        {
+            "number": "6",
+            "name": "Cherry Blossom",
+            "bits": [
+                "Flower",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/513spui.jpg"
+        },
+        {
+            "number": "7",
+            "name": "Spirit Flame",
+            "bits": [
+                "Bone",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/0kxulKg.jpg"
+        },
+        {
+            "number": "8",
+            "name": "Night Crow",
+            "bits": [
+                "Bone",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/Ca8JsL3.jpg"
+        },
+        {
+            "number": "9",
+            "name": "Crystal Mines",
+            "bits": [
+                "Quartz",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/UhCzvz4.jpg"
+        },
+        {
+            "number": "10",
+            "name": "Submarine",
+            "bits": [
+                "Iron",
+                "Uranium"
+            ],
+            "img": "https://i.imgur.com/n9lFCFD.jpg"
+        },
+        {
+            "number": "11",
+            "name": "Pirate Voyage",
+            "bits": [
+                "Iron",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/ocq2Oes.jpg"
+        },
+        {
+            "number": "12",
+            "name": "Kominka",
+            "bits": [
+                "Essence",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/orVZ0mZ.jpg"
+        },
+        {
+            "number": "13",
+            "name": "Magus",
+            "bits": [
+                "Essence",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/z5M5RVp.jpg"
+        },
+        {
+            "number": "14",
+            "name": "Magitek",
+            "bits": [
+                "Magma",
+                "Uranium"
+            ],
+            "img": "https://i.imgur.com/wPrWiTZ.jpg"
+        },
+        {
+            "number": "15",
+            "name": "Snowlands",
+            "bits": [
+                "Ice",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/ZSkKcDP.jpg"
+        },
+        {
+            "number": "16",
+            "name": "Ice Cream Sundae",
+            "bits": [
+                "Ice",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/GCHgVGf.jpg"
+        },
+        {
+            "number": "17",
+            "name": "Dragon Hunt",
+            "bits": [
+                "Bone",
+                "Wool"
+            ],
+            "img": "https://i.imgur.com/MqF1TLg.jpg"
+        },
+        {
+            "number": "18",
+            "name": "Patchwork",
+            "bits": [
+                "Essence",
+                "Wool"
+            ],
+            "img": "https://i.imgur.com/pVXwCJu.jpg"
+        },
+        {
+            "number": "19",
+            "name": "Venice Carnival",
+            "bits": [
+                "Flower",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/MBRgwVk.jpg"
+        },
+        {
+            "number": "20",
+            "name": "Robotic",
+            "bits": [
+                "Essence",
+                "Uranium"
+            ],
+            "img": "https://i.imgur.com/2VcZIOl.jpg"
+        },
+        {
+            "number": "21",
+            "name": "Frills",
+            "bits": [
+                "Quartz",
+                "Wool"
+            ],
+            "img": "https://i.imgur.com/837WpLW.jpg"
+        },
+        {
+            "number": "22",
+            "name": "Fuselage",
+            "bits": [
+                "Iron",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/CmILhXC.jpg"
+        },
+        {
+            "number": "23",
+            "name": "Rozen",
+            "bits": [
+                "Flower",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/lRIVRKj.jpg"
+        },
+        {
+            "number": "24",
+            "name": "Smithy Forge",
+            "bits": [
+                "Magma",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/1XI3wdb.jpg"
+        },
+        {
+            "number": "25",
+            "name": "Watermelon Juice",
+            "bits": [
+                "Leaf",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/C2rULwm.jpg"
+        },
+        {
+            "number": "26",
+            "name": "Faerie Forest",
+            "bits": [
+                "Flower",
+                "Leaf"
+            ],
+            "img": "https://i.imgur.com/guzg1Pm.jpg"
+        },
+        {
+            "number": "27",
+            "name": "Autumn View",
+            "bits": [
+                "Leaf",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/SbAYBIR.jpg"
+        },
+        {
+            "number": "28",
+            "name": "Edo Furin",
+            "bits": [
+                "Copper",
+                "Quartz"
+            ],
+            "img": "https://i.imgur.com/3mPCrUt.jpg"
+        },
+        {
+            "number": "29",
+            "name": "Barbecue",
+            "bits": [
+                "Salt",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/xuGi0Jo.jpg"
+        },
+        {
+            "number": "30",
+            "name": "Whirlpool",
+            "bits": [
+                "Ice",
+                "Salt"
+            ],
+            "img": "https://i.imgur.com/rkhdv0i.jpg"
+        },
+        {
+            "number": "31",
+            "name": "Bubble Bath",
+            "bits": [
+                "Ice",
+                "Wool"
+            ],
+            "img": "https://i.imgur.com/5HUyOTt.jpg"
+        },
+        {
+            "number": "32",
+            "name": "Spaceship",
+            "bits": [
+                "Uranium",
+                "Zinc"
+            ],
+            "img": "https://i.imgur.com/6xIMDhN.jpg"
+        },
+        {
+            "number": "33",
+            "name": "Wild West",
+            "bits": [
+                "Quartz",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/Tx7OoOb.jpg"
+        },
+        {
+            "number": "34",
+            "name": "Archery",
+            "bits": [
+                "Copper",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/0peC0qo.jpg"
+        },
+        {
+            "number": "35",
+            "name": "Tree Frog",
+            "bits": [
+                "Bone",
+                "Leaf"
+            ],
+            "img": "https://i.imgur.com/zw3g9rJ.jpg"
+        },
+        {
+            "number": "36",
+            "name": "Scimitar Fight",
+            "bits": [
+                "Bone",
+                "Iron"
+            ],
+            "img": "https://i.imgur.com/KiQyZCZ.jpg"
+        },
+        {
+            "number": "37",
+            "name": "Bamboo Stalks",
+            "bits": [
+                "Leaf",
+                "Wood"
+            ],
+            "img": "https://i.imgur.com/KBfum19.jpg"
+        },
+        {
+            "number": "38",
+            "name": "Chocolate Orange",
+            "bits": [
+                "Essence",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/eTs3MU7.jpg"
+        },
+        {
+            "number": "39",
+            "name": "Tribal Chief",
+            "bits": [
+                "Copper",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/U1H9i3i.jpg"
+        },
+        {
+            "number": "40",
+            "name": "Abandoned Church",
+            "bits": [
+                "Leaf",
+                "Quartz"
+            ],
+            "img": "https://i.imgur.com/fJMBCz7.jpg"
+        },
+        {
+            "number": "41",
+            "name": "Long Hair",
+            "bits": [
+                "Essence",
+                "Salt"
+            ],
+            "img": "https://i.imgur.com/DczXqOr.jpg"
+        },
+        {
+            "number": "42",
+            "name": "Water Element",
+            "bits": [
+                "Ice",
+                "Quartz"
+            ],
+            "img": "https://i.imgur.com/I83V16b.jpg"
+        },
+        {
+            "number": "43",
+            "name": "Carved Stone",
+            "bits": [
+                "Clay",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/YOWUCxi.jpg"
+        },
+        {
+            "number": "44",
+            "name": "Beauty",
+            "bits": [
+                "Clay",
+                "Flower"
+            ],
+            "img": "https://i.imgur.com/9BZBCuP.jpg"
+        },
+        {
+            "number": "45",
+            "name": "Carnations",
+            "bits": [
+                "Flower",
+                "Wool"
+            ],
+            "img": "https://i.imgur.com/gqgRxuG.jpg"
+        },
+        {
+            "number": "46",
+            "name": "Baroque",
+            "bits": [
+                "Clay",
+                "Copper"
+            ],
+            "img": "https://i.imgur.com/UXNELDO.jpg"
+        },
+        {
+            "number": "47",
+            "name": "Musical Notes",
+            "bits": [
+                "Essence",
+                "Iron"
+            ],
+            "img": "https://i.imgur.com/JN0mVb7.jpg"
+        },
+        {
+            "number": "48",
+            "name": "Winner's Podium",
+            "bits": [
+                "Iron",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/7dIW3Dp.jpg"
+        },
+        {
+            "number": "49",
+            "name": "Manticore",
+            "bits": [
+                "Bone",
+                "Magma"
+            ],
+            "img": "https://i.imgur.com/TaQV90P.jpg"
+        },
+        {
+            "number": "50",
+            "name": "Tipsy",
+            "bits": [
+                "Salt",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/v9XSTgs.jpg"
+        },
+        {
+            "number": "51",
+            "name": "Nordic",
+            "bits": [
+                "Salt",
+                "Stone"
+            ],
+            "img": "https://i.imgur.com/fr4XUZa.jpg"
+        },
+        {
+            "number": "52",
+            "name": "Shiba Inu",
+            "bits": [
+                "Bone",
+                "Essence"
+            ],
+            "img": "https://i.imgur.com/pDftxzH.jpg"
+        },
+        {
+            "number": "53",
+            "name": "Toy Mecha",
+            "bits": [
+                "Ice",
+                "Uranium"
+            ],
+            "img": "https://i.imgur.com/yIrx1Ub.jpg"
+        },
+        {
+            "number": "54",
+            "name": "Bubble Tea",
+            "bits": [
+                "Ice",
+                "Leaf"
+            ],
+            "img": "https://i.imgur.com/C6EMSKt.jpg"
+        },
+        {
+            "number": "55",
+            "name": "Morning Dew",
+            "bits": [
+                "Flower",
+                "Ice"
+            ],
+            "img": "https://i.imgur.com/7aaLgZR.jpg"
+        },
+        {
+            "number": "56",
+            "name": "Nurse's Office",
+            "bits": [
+                "Bone",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/JFBllFq.jpg"
+        },
+        {
+            "number": "57",
+            "name": "Honeycomb",
+            "bits": [
+                "Sugar",
+                "Wax"
+            ],
+            "img": "https://i.imgur.com/MYxpzqK.jpg"
+        },
+        {
+            "number": "58",
+            "name": "Magical Girl",
+            "bits": [
+                "Quartz",
+                "Sugar"
+            ],
+            "img": "https://i.imgur.com/DN6eN1P.jpg"
+        },
+        {
+            "number": "59",
+            "name": "Tetromino",
+            "bits": [
+                "Essence",
+                "Wax"
+            ],
+            "img": "https://i.imgur.com/ZNJsfBv.jpg"
+        }
+    ]
+}

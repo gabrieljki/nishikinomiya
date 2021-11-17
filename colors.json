@@ -1,0 +1,76 @@
+{
+    "hexCores": [
+        {
+            "material": "bone",
+            "hexcolor": "#EEEEEE"
+        },
+        {
+            "material": "clay",
+            "hexcolor": "#80400B"
+        },
+        {
+            "material": "copper",
+            "hexcolor": "#B87333"
+        },
+        {
+            "material": "essence",
+            "hexcolor": "#96FBC4"
+        },
+        {
+            "material": "flower",
+            "hexcolor": "#C45494"
+        },
+        {
+            "material": "ice",
+            "hexcolor": "#2AC7cA"
+        },
+        {
+            "material": "iron",
+            "hexcolor": "#8A8A8A"
+        },
+        {
+            "material": "leaf",
+            "hexcolor": "#56EF02"
+        },
+        {
+            "material": "magma",
+            "hexcolor": "#FF4817"
+        },
+        {
+            "material": "quartz",
+            "hexcolor": "#A5A606"
+        },
+        {
+            "material": "salt",
+            "hexcolor": "#FFFFFF"
+        },
+        {
+            "material": "stone",
+            "hexcolor": "#4F4F4F"
+        },
+        {
+            "material": "sugar",
+            "hexcolor": "#DDDDDD"
+        },
+        {
+            "material": "uranium",
+            "hexcolor": "#008000"
+        },
+        {
+            "material": "wax",
+            "hexcolor": "#E1C699"
+        },
+        {
+            "material": "wood",
+            "hexcolor": "#A08533"
+        },
+        {
+            "material": "wool",
+            "hexcolor": "#DFBFC8"
+        },
+        {
+            "material": "zinc",
+            "hexcolor": "#E2E2E2"
+        }
+    ]
+}
